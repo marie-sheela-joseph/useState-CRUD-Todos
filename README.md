@@ -1,5 +1,5 @@
 Components Architecture:
-![image](https://user-images.githubusercontent.com/92960836/223856841-1aa271dd-f237-4258-930e-81dbe01767de.png)
+![image](https://user-images.githubusercontent.com/92960836/223858510-c1fed9ec-7bac-41d0-88c0-ddc973617d78.png)
 
 output:
 1.on Page load:
