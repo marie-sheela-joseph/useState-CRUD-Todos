@@ -1,3 +1,25 @@
+1.on Page load:
+![image](https://user-images.githubusercontent.com/92960836/223849162-1018eceb-d290-4cbf-8783-d9fb586d1045.png)
+
+2.add Todos:
+![image](https://user-images.githubusercontent.com/92960836/223849733-7016d6fc-966f-4977-a9d5-1467ddd2955b.png)
+
+3. reset:
+![image](https://user-images.githubusercontent.com/92960836/223849846-870f649e-f97e-4ba6-9310-10e4310ee775.png)
+
+4. delete todo 3:
+![image](https://user-images.githubusercontent.com/92960836/223849970-4799ec12-68d2-4089-a5b8-e5805f3daed7.png)
+
+5. edit todo 2: displays edit form and loads todo 2 data in it
+![image](https://user-images.githubusercontent.com/92960836/223850150-3660e550-bf8f-4d49-bf4b-4138b3bcdba2.png)
+
+6.change todo 2 to completed
+![image](https://user-images.githubusercontent.com/92960836/223850383-4abca1af-599b-4bc9-a41e-d564d3faf647.png)
+
+7. save change:
+![image](https://user-images.githubusercontent.com/92960836/223850494-cfa0c617-5d8a-472a-ad12-8feef2115cf3.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
