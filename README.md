@@ -1,3 +1,7 @@
+Components Architecture:
+![image](https://user-images.githubusercontent.com/92960836/223855703-b4617163-3901-4b43-82d4-fd5f9acf4a25.png)
+
+output:
 1.on Page load:
 ![image](https://user-images.githubusercontent.com/92960836/223849162-1018eceb-d290-4cbf-8783-d9fb586d1045.png)
 
